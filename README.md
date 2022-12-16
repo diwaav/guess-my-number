@@ -1,2 +1,2 @@
-# guess-my-number
-[Python] A number guessing game created for my Beginning Programming in Python course at UCSC 
+# Guess my Number [CSE 20]
+A simple guessing game in python
